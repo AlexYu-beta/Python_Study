@@ -20,7 +20,7 @@ def rectangle(height,width):
     """
     for row in range(height):
         for column in range(width):
-            print(CHAR, end ='')
+            print(CHAR, end = '')
         print()
 
 def square(side):
